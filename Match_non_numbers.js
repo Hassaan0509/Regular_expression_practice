@@ -1,0 +1,1 @@
+let numRegex = /\D/g;
